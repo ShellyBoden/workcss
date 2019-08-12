@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC:600&display=swap&subset=chinese-traditional');
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  height: 100%;
+}
+
+* {
+  font-family: 'Noto Serif TC',serif, sans-serif, cursive, fantasy, monospace;
+  margin: 0px;
+}
